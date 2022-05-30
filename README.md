@@ -11,19 +11,19 @@ na região de Belo Horizonte.
 <details>
   <summary><strong>Módulo 0 - Prepare-se Para a Jornada</strong></summary><br />
  
-  - [ ] Conheça a DIO
-  - [ ] Seja Protagonista nesse Bootcamp
-  - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Aula Inaugural - Webinar
+  - [x] Conheça a DIO
+  - [x] Seja Protagonista nesse Bootcamp
+  - [x] Boas-vindas: Geração Tech Unimed BH
+  - [x] Aula Inaugural - Webinar
  
     <br />
 </details>
 <details>
   <summary><strong>Módulo 1 - Principios de Desenvolvimento de Software</strong></summary><br />
 
-  - [ ] Introdução à Programação e Pensamento Computacional
-  - [ ] Introodução ao Git e GitHub
-  - [ ] <b>Desafio</b> : Criando o Repositório para compartilhar Seu Progresso
+  - [x] Introdução à Programação e Pensamento Computacional
+  - [x] Introodução ao Git e GitHub
+  - [x] <b>Desafio</b> : Criando o Repositório para compartilhar Seu Progresso
 
     <br />
  </details>
@@ -33,7 +33,7 @@ na região de Belo Horizonte.
   - [ ] Primeiros Passos para Desenvolvimento Web
   - [ ] Introdução a criação de websites com HTML5 e CSS3
   - [ ] Posicionando elementos com Flexbox e CSS
-  - [ ] <b>Desafio</b> : Recirnado a página inicial do Instagram
+  - [ ] [<b>Desafio</b> : Recriando a página inicial do Instagram](link-do-repositorio-aqui)
 
     <br />
  </details>
@@ -47,8 +47,8 @@ na região de Belo Horizonte.
   - [ ] Trabalhando com Módulos em Javascript
   - [ ] Funções
   - [ ] Introdução ao Typescript: Explorando Classes, Tipos e Interfaces
-  - [ ] <b>Desafio de Código</b> : Desafios Iniciais - Javascript
-  - [ ] <b>Desafio de Projeto</b> : Introdução Prática ao Typescript
+  - [ ] [<b>Desafio de Código</b> : Desafios Iniciais - Javascript](link-do-repositorio-aqui)
+  - [ ] [<b>Desafio de Projeto</b> : Introdução Prática ao Typescript](link-do-repositorio-aqui)
   
     <br />
   </details>
@@ -65,8 +65,8 @@ na região de Belo Horizonte.
   - [ ] O poder do Data Binding no Angular
   - [ ] Trabalhando com Componentes em Angular
   - [ ] Criação de Pipes com Angular
-  - [ ] <b>Desafio de Código</b> : Desafios Intermediários - Javascript
-  - [ ] <b>Desafio de Projeto</b> : Como criar um front-end de um e-commerce utilizando Angular
+  - [ ] [<b>Desafio de Código</b> : Desafios Intermediários - Javascript](link-do-repositorio-aqui)
+  - [ ] [<b>Desafio de Projeto</b> : Como criar um front-end de um e-commerce utilizando Angular](link-do-repositorio-aqui)
 
     <br />
   </details>
@@ -91,12 +91,12 @@ na região de Belo Horizonte.
   - [ ] Programando com Orientação a Objeto com C# (POO)
   - [ ] Construtores, Propriedades, Delegates e Eventos em .NET
   - [ ] Introdução a Clean Code e SOLID com .NET e C#
-  - [ ] <b>Desafio de Projeto</b> : Abstraindo um jogo de RPG usando Orientação a Objetos com C#
+  - [ ] [<b>Desafio de Projeto</b> : Abstraindo um jogo de RPG usando Orientação a Objetos com C#](link-do-repositorio-aqui)
   - [ ] Conhecendo os Protocolos de Comunicação da Internet
   - [ ] Desenvolvimento de aplicações com .NET
   - [ ] Cnfiguração da arquitetura back-end com .NET Core
-  - [ ] <b>Desafio de Projeto</b> : Criando um APP simples de cadastro de séries em .NET
-  - [ ] <b>Desafio de Código</b> : Desafios Iniciais - C#
+  - [ ] [<b>Desafio de Projeto</b> : Criando um APP simples de cadastro de séries em .NET](link-do-repositorio-aqui)
+  - [ ] [<b>Desafio de Código</b> : Desafios Iniciais - C#](link-do-repositorio-aqui)
 
     <br />
   </details> 
