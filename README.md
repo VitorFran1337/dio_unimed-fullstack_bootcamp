@@ -8,10 +8,74 @@ Durante o bootcamp, iremos desenvolver projetos práticos, participando de mento
 e obter seu certificados dos diversos assuntos abordados. Ao final do programa, a Unimed-BH espera contratar os melhores perfis para atuar 
 na região de Belo Horizonte.
 
-Módulo 0 - Prepare-se Para a Jornada
-Módulo 1 - Principios de Desenvolvimento de Software
-Módulo 2 - Fundamentos Web com HTML e CSS
-Módulo 3 - Conhecendo a Linguagem de Programação Javascript
-Módulo 4 - Desesnvolvimento Web com Angular
-Módulo 5 - Banco de Dados Relacionais (SQL)
-Módulo 6 - Dominando o Ecossistema .NET com C#
+<details>
+  <summary><strong>Módulo 0 - Prepare-se Para a Jornada</strong></summary><br />
+
+  - [ ] Conheça a DIO
+  - [ ] Seja Protagonista nesse Bootcamp
+  - [ ] Boas-vindas: Geração Tech Unimed BH
+  - [ ] Aula Inaugural - Webinar
+
+    <br />
+</details>
+<details>
+  <summary><strong>Módulo 1 - Principios de Desenvolvimento de Software</strong></summary><br />
+
+  - [ ] Introdução à Programação e Pensamento Computacional
+  - [ ] Introodução ao Git e GitHub
+  - [ ] <b>Desafio</b> : Criando o Repositório para compartilhar Seu Progresso
+
+    <br />
+ </details>
+ <details>
+  <summary><strong>Módulo 2 - Fundamentos Web com HTML e CSS</strong></summary><br />
+
+  - [ ] Primeiros Passos para Desenvolvimento Web
+  - [ ] Introdução a criação de websites com HTML5 e CSS3
+  - [ ] Posicionando elementos com Flexbox e CSS
+  - [ ] <b>Desafio</b> : Recirnado a página inicial do Instagram
+
+    <br />
+ </details>
+ <details>
+  <summary><strong>Módulo 3 - Conhecendo a Linguagem de Programação Javascript</strong></summary><br />
+
+  - [ ] Conheça a DIO
+  - [ ] Seja Protagonista nesse Bootcamp
+  - [ ] Boas-vindas: Geração Tech Unimed BH
+  - [ ] Aula Inaugural - Webinar
+  
+    <br />
+  </details>
+  <details>
+  <summary><strong>Módulo 4 - Desesnvolvimento Web com Angular</strong></summary><br />
+ 
+  - [ ] Conheça a DIO
+  - [ ] Seja Protagonista nesse Bootcamp
+  - [ ] Boas-vindas: Geração Tech Unimed BH
+  - [ ] Aula Inaugural - Webinar
+
+    <br />
+  </details>
+  <details>
+  <summary><strong>Módulo 5 - Banco de Dados Relacionais (SQL)</strong></summary><br />
+
+  - [ ] Conheça a DIO
+  - [ ] Seja Protagonista nesse Bootcamp
+  - [ ] Boas-vindas: Geração Tech Unimed BH
+  - [ ] Aula Inaugural - Webinar
+ 
+    <br />
+  </details>
+   <details>
+  <summary><strong>Módulo 6 - Dominando o Ecossistema .NET com C#</strong></summary><br />
+
+  - [ ] Conheça a DIO
+  - [ ] Seja Protagonista nesse Bootcamp
+  - [ ] Boas-vindas: Geração Tech Unimed BH
+  - [ ] Aula Inaugural - Webinar
+
+    <br />
+  </details> 
+  
+  ----
