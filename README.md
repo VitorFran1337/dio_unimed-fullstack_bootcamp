@@ -10,12 +10,12 @@ na região de Belo Horizonte.
 
 <details>
   <summary><strong>Módulo 0 - Prepare-se Para a Jornada</strong></summary><br />
-
+ 
   - [ ] Conheça a DIO
   - [ ] Seja Protagonista nesse Bootcamp
   - [ ] Boas-vindas: Geração Tech Unimed BH
   - [ ] Aula Inaugural - Webinar
-
+ 
     <br />
 </details>
 <details>
@@ -40,16 +40,29 @@ na região de Belo Horizonte.
  <details>
   <summary><strong>Módulo 3 - Conhecendo a Linguagem de Programação Javascript</strong></summary><br />
 
-  - [ ] Conheça a DIO
-  - [ ] Seja Protagonista nesse Bootcamp
-  - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Aula Inaugural - Webinar
+  - [ ] Introdução ao Javascript
+  - [ ] Sintaxe e Operadores
+  - [ ] Sintaxe básica em Javascript
+  - [ ] Variáveis e Tipos
+  - [ ] Trabalhando com Módulos em Javascript
+  - [ ] Funções
+  - [ ] Introdução ao Typescript: Explorando Classes, Tipos e Interfaces
+  - [ ] <b>Desafio de Código</b> : Desafios Iniciais - Javascript
+  - [ ] <b>Desafio de Projeto</b> : Introdução Prática ao Typescript
   
     <br />
   </details>
   <details>
   <summary><strong>Módulo 4 - Desesnvolvimento Web com Angular</strong></summary><br />
  
+  - [ ] Conheça a DIO
+  - [ ] Seja Protagonista nesse Bootcamp
+  - [ ] Boas-vindas: Geração Tech Unimed BH
+  - [ ] Aula Inaugural - Webinar
+  - [ ] Conheça a DIO
+  - [ ] Seja Protagonista nesse Bootcamp
+  - [ ] Boas-vindas: Geração Tech Unimed BH
+  - [ ] Aula Inaugural - Webinar
   - [ ] Conheça a DIO
   - [ ] Seja Protagonista nesse Bootcamp
   - [ ] Boas-vindas: Geração Tech Unimed BH
