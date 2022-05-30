@@ -82,21 +82,21 @@ na região de Belo Horizonte.
    <details>
   <summary><strong>Módulo 6 - Dominando o Ecossistema .NET com C#</strong></summary><br />
 
-  - [ ] Conheça a DIO
-  - [ ] Seja Protagonista nesse Bootcamp
-  - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Introdução ao Angular 8
-  - [ ] Trabalhando com Single Page Applications com Angular 
-  - [ ] A arquitetura de componentes e a gestão de complexidade no front-end
-  - [ ] Instalando e Preparando o Ambiente com Angular
-  - [ ] Explorando Diretivas com Angular
-  - [ ] Implementando Serviços e Injeção de Dependencias com Angular
-  - [ ] Introdução a Serviços Assíncronos no Angular
-  - [ ] O poder do Data Binding no Angular
-  - [ ] Trabalhando com Componentes em Angular
-  - [ ] Criação de Pipes com Angular
-  - [ ] <b>Desafio de Projeto</b> : Como criar um front-end de um e-commerce utilizando Angular
-  - [ ] <b>Desafio de Código</b> : Desafios Intermediários - Javascript
+  - [ ] Introdução ao Ecossistema .NET e Documentação
+  - [ ] Criando o ambiente de desenvolvimento
+  - [ ] Primeiros passos com .NET
+  - [ ] Fundamentos de Coleções e LINQ com .NET
+  - [ ] Tratamento de Erro em C# com Exceptions 
+  - [ ] Trabalhando com Arquivos e Streams em C#
+  - [ ] Programando com Orientação a Objeto com C# (POO)
+  - [ ] Construtores, Propriedades, Delegates e Eventos em .NET
+  - [ ] Introdução a Clean Code e SOLID com .NET e C#
+  - [ ] <b>Desafio de Projeto</b> : Abstraindo um jogo de RPG usando Orientação a Objetos com C#
+  - [ ] Conhecendo os Protocolos de Comunicação da Internet
+  - [ ] Desenvolvimento de aplicações com .NET
+  - [ ] Cnfiguração da arquitetura back-end com .NET Core
+  - [ ] <b>Desafio de Projeto</b> : Criando um APP simples de cadastro de séries em .NET
+  - [ ] <b>Desafio de Código</b> : Desafios Iniciais - C#
 
     <br />
   </details> 
