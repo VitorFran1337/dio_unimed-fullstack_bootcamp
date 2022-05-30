@@ -102,3 +102,6 @@ na região de Belo Horizonte.
   </details> 
   
   ----
+
+:us: - Generation Tech Unimed-BH Program is a program that offers [free bootcamps](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack). In this first edition, the bootcamp will train new fullstack developers in Javascript, MySQL, Angular and .NET technologies. During the bootcamp, we will develop practical projects, participate in live and exclusive mentorships, and obtain our certificates for the various subjects covered. At the end of the program, Unimed-BH expects to hire the best profiles to work in the Belo Horizonte region.
+
