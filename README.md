@@ -1,13 +1,14 @@
-### BootCamp FullStack Developer - [Unimed-BH](http://www.unimedbh.com.br/) w/ [Digital Innovation One](https://www.dio.me/)
+## BootCamp FullStack Developer - [Unimed-BH](http://www.unimedbh.com.br/) w/ [Digital Innovation One](https://www.dio.me/)
 
-----
-
+<br>
 :brazil: - O Programa Geração Tech Unimed-BH é um programa que oferece [bootcamps gratuitos](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack).
 Nesta primeira edição, o bootcamp formará novos desenvolvedores fullstack nas tecnologias Javascript, MySQL, Angular e .NET. 
 Durante o bootcamp, iremos desenvolver projetos práticos, participando de mentorias ao vivo e exclusivas, 
 e obter seu certificados dos diversos assuntos abordados. Ao final do programa, a Unimed-BH espera contratar os melhores perfis para atuar 
 na região de Belo Horizonte.
+<br>
 
+----
 
 <blockquote>
 <details>
@@ -105,8 +106,13 @@ na região de Belo Horizonte.
   </blockquote>
   
   ----
+  
+<br>
 
 :us: - Generation Tech Unimed-BH is a program that offers [free bootcamps](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack). In this first edition, the bootcamp will train new fullstack developers in Javascript, MySQL, Angular and .NET technologies. During the bootcamp, we will develop practical projects, participate in live and exclusive mentorships, and obtain our certificates for the various subjects covered. At the end of the program, Unimed-BH expects to hire the best profiles to work in the Belo Horizonte region.
+<br>
+
+----
 
 <blockquote>
 <details>
