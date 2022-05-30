@@ -55,28 +55,27 @@ na região de Belo Horizonte.
   <details>
   <summary><strong>Módulo 4 - Desesnvolvimento Web com Angular</strong></summary><br />
  
-  - [ ] Conheça a DIO
-  - [ ] Seja Protagonista nesse Bootcamp
-  - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Aula Inaugural - Webinar
-  - [ ] Conheça a DIO
-  - [ ] Seja Protagonista nesse Bootcamp
-  - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Aula Inaugural - Webinar
-  - [ ] Conheça a DIO
-  - [ ] Seja Protagonista nesse Bootcamp
-  - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Aula Inaugural - Webinar
+  - [ ] Introdução ao Angular 8
+  - [ ] Trabalhando com Single Page Applications com Angular 
+  - [ ] A arquitetura de componentes e a gestão de complexidade no front-end
+  - [ ] Instalando e Preparando o Ambiente com Angular
+  - [ ] Explorando Diretivas com Angular
+  - [ ] Implementando Serviços e Injeção de Dependencias com Angular
+  - [ ] Introdução a Serviços Assíncronos no Angular
+  - [ ] O poder do Data Binding no Angular
+  - [ ] Trabalhando com Componentes em Angular
+  - [ ] Criação de Pipes com Angular
+  - [ ] <b>Desafio de Código</b> : Desafios Intermediários - Javascript
+  - [ ] <b>Desafio de Projeto</b> : Como criar um front-end de um e-commerce utilizando Angular
 
     <br />
   </details>
   <details>
   <summary><strong>Módulo 5 - Banco de Dados Relacionais (SQL)</strong></summary><br />
 
-  - [ ] Conheça a DIO
-  - [ ] Seja Protagonista nesse Bootcamp
-  - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Aula Inaugural - Webinar
+  - [ ] MySQL - Trabalhando as suas primeiras tabelas
+  - [ ] MySQL - Explorando relacionamentos com o Workbench
+  - [ ] MySQL - Consultas com função Join
  
     <br />
   </details>
@@ -86,7 +85,18 @@ na região de Belo Horizonte.
   - [ ] Conheça a DIO
   - [ ] Seja Protagonista nesse Bootcamp
   - [ ] Boas-vindas: Geração Tech Unimed BH
-  - [ ] Aula Inaugural - Webinar
+  - [ ] Introdução ao Angular 8
+  - [ ] Trabalhando com Single Page Applications com Angular 
+  - [ ] A arquitetura de componentes e a gestão de complexidade no front-end
+  - [ ] Instalando e Preparando o Ambiente com Angular
+  - [ ] Explorando Diretivas com Angular
+  - [ ] Implementando Serviços e Injeção de Dependencias com Angular
+  - [ ] Introdução a Serviços Assíncronos no Angular
+  - [ ] O poder do Data Binding no Angular
+  - [ ] Trabalhando com Componentes em Angular
+  - [ ] Criação de Pipes com Angular
+  - [ ] <b>Desafio de Projeto</b> : Como criar um front-end de um e-commerce utilizando Angular
+  - [ ] <b>Desafio de Código</b> : Desafios Intermediários - Javascript
 
     <br />
   </details> 
