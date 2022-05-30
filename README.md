@@ -105,3 +105,97 @@ na região de Belo Horizonte.
 
 :us: - Generation Tech Unimed-BH Program is a program that offers [free bootcamps](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack). In this first edition, the bootcamp will train new fullstack developers in Javascript, MySQL, Angular and .NET technologies. During the bootcamp, we will develop practical projects, participate in live and exclusive mentorships, and obtain our certificates for the various subjects covered. At the end of the program, Unimed-BH expects to hire the best profiles to work in the Belo Horizonte region.
 
+<details>
+  <summary><strong>Stage 0 - Prepare for the Journey</strong></summary><br />
+ 
+  - [x] Conheça a DIO
+  - [x] Seja Protagonista nesse Bootcamp
+  - [x] Boas-vindas: Geração Tech Unimed BH
+  - [x] Aula Inaugural - Webinar
+ 
+    <br />
+</details>
+<details>
+  <summary><strong>Stage 1 - Software Development Principles</strong></summary><br />
+
+  - [x] Introdução à Programação e Pensamento Computacional
+  - [x] Introodução ao Git e GitHub
+  - [x] <b>Desafio</b> : Criando o Repositório para compartilhar Seu Progresso
+
+    <br />
+ </details>
+ <details>
+  <summary><strong>Stage 2 - Web Fundamentals with HTML and CSS</strong></summary><br />
+
+  - [ ] Primeiros Passos para Desenvolvimento Web
+  - [ ] Introdução a criação de websites com HTML5 e CSS3
+  - [ ] Posicionando elementos com Flexbox e CSS
+  - [ ] [<b>Desafio</b> : Recriando a página inicial do Instagram](link-do-repositorio-aqui)
+
+    <br />
+ </details>
+ <details>
+  <summary><strong>Stage 3 - First Contact the Javascript Programming Language</strong></summary><br />
+
+  - [ ] Introdução ao Javascript
+  - [ ] Sintaxe e Operadores
+  - [ ] Sintaxe básica em Javascript
+  - [ ] Variáveis e Tipos
+  - [ ] Trabalhando com Módulos em Javascript
+  - [ ] Funções
+  - [ ] Introdução ao Typescript: Explorando Classes, Tipos e Interfaces
+  - [ ] [<b>Desafio de Código</b> : Desafios Iniciais - Javascript](link-do-repositorio-aqui)
+  - [ ] [<b>Desafio de Projeto</b> : Introdução Prática ao Typescript](link-do-repositorio-aqui)
+  
+    <br />
+  </details>
+  <details>
+  <summary><strong>Stage 4 - Web Development with Angular</strong></summary><br />
+ 
+  - [ ] Introdução ao Angular 8
+  - [ ] Trabalhando com Single Page Applications com Angular 
+  - [ ] A arquitetura de componentes e a gestão de complexidade no front-end
+  - [ ] Instalando e Preparando o Ambiente com Angular
+  - [ ] Explorando Diretivas com Angular
+  - [ ] Implementando Serviços e Injeção de Dependencias com Angular
+  - [ ] Introdução a Serviços Assíncronos no Angular
+  - [ ] O poder do Data Binding no Angular
+  - [ ] Trabalhando com Componentes em Angular
+  - [ ] Criação de Pipes com Angular
+  - [ ] [<b>Desafio de Código</b> : Desafios Intermediários - Javascript](link-do-repositorio-aqui)
+  - [ ] [<b>Desafio de Projeto</b> : Como criar um front-end de um e-commerce utilizando Angular](link-do-repositorio-aqui)
+
+    <br />
+  </details>
+  <details>
+  <summary><strong>Stage 5 - Relational Database (SQL)</strong></summary><br />
+
+  - [ ] MySQL - Trabalhando as suas primeiras tabelas
+  - [ ] MySQL - Explorando relacionamentos com o Workbench
+  - [ ] MySQL - Consultas com função Join
+ 
+    <br />
+  </details>
+   <details>
+  <summary><strong>Stage 6 - Mastering the .NET Ecosystem with C#</strong></summary><br />
+
+  - [ ] Introdução ao Ecossistema .NET e Documentação
+  - [ ] Criando o ambiente de desenvolvimento
+  - [ ] Primeiros passos com .NET
+  - [ ] Fundamentos de Coleções e LINQ com .NET
+  - [ ] Tratamento de Erro em C# com Exceptions 
+  - [ ] Trabalhando com Arquivos e Streams em C#
+  - [ ] Programando com Orientação a Objeto com C# (POO)
+  - [ ] Construtores, Propriedades, Delegates e Eventos em .NET
+  - [ ] Introdução a Clean Code e SOLID com .NET e C#
+  - [ ] [<b>Desafio de Projeto</b> : Abstraindo um jogo de RPG usando Orientação a Objetos com C#](link-do-repositorio-aqui)
+  - [ ] Conhecendo os Protocolos de Comunicação da Internet
+  - [ ] Desenvolvimento de aplicações com .NET
+  - [ ] Cnfiguração da arquitetura back-end com .NET Core
+  - [ ] [<b>Desafio de Projeto</b> : Criando um APP simples de cadastro de séries em .NET](link-do-repositorio-aqui)
+  - [ ] [<b>Desafio de Código</b> : Desafios Iniciais - C#](link-do-repositorio-aqui)
+
+    <br />
+  </details> 
+  
+  ----
