@@ -2,8 +2,7 @@
 
 <br>
 
-:brazil: - O Programa Geração Tech Unimed-BH é um programa que oferece [bootcamps gratuitos](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack).
-Nesta primeira edição, o bootcamp formará novos desenvolvedores fullstack nas tecnologias Javascript, MySQL, Angular e .NET. 
+:brazil: - O Programa Geração Tech Unimed-BH é um programa concebido pela Digital Innovation One em parceria com a Unimed-BH, que oferece [cursos gratuitos](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack). Nesta primeira edição, o bootcamp formará novos desenvolvedores fullstack nas tecnologias Javascript, MySQL, Angular e .NET. 
 Durante o bootcamp, iremos desenvolver projetos práticos, participando de mentorias ao vivo e exclusivas, 
 e obter seu certificados dos diversos assuntos abordados. Ao final do programa, a Unimed-BH espera contratar os melhores perfis para atuar 
 na região de Belo Horizonte.
@@ -34,8 +33,8 @@ na região de Belo Horizonte.
  <details>
   <summary><strong>Módulo 2 - Fundamentos Web com HTML e CSS</strong></summary><br />
 
-  - [ ] Primeiros Passos para Desenvolvimento Web
-  - [ ] Introdução a criação de websites com HTML5 e CSS3
+  - [x] Primeiros Passos para Desenvolvimento Web
+  - [x] Introdução a criação de websites com HTML5 e CSS3
   - [ ] Posicionando elementos com Flexbox e CSS
   - [ ] [<b>Desafio</b> : Recriando a página inicial do Instagram](link-do-repositorio-aqui)
 
@@ -77,8 +76,8 @@ na região de Belo Horizonte.
   <details>
   <summary><strong>Módulo 5 - Banco de Dados Relacionais (SQL)</strong></summary><br />
 
-  - [ ] MySQL - Trabalhando as suas primeiras tabelas
-  - [ ] MySQL - Explorando relacionamentos com o Workbench
+  - [x] MySQL - Trabalhando as suas primeiras tabelas
+  - [x] MySQL - Explorando relacionamentos com o Workbench
   - [ ] MySQL - Consultas com função Join
  
     <br />
@@ -110,7 +109,8 @@ na região de Belo Horizonte.
   
 <br>
 
-:us: - Generation Tech Unimed-BH is a program that offers [free bootcamps](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack). In this first edition, the bootcamp will train new fullstack developers in Javascript, MySQL, Angular and .NET technologies. During the bootcamp, we will develop practical projects, participate in live and exclusive mentorships, and obtain our certificates for the various subjects covered. At the end of the program, Unimed-BH expects to hire the best profiles to work in the Belo Horizonte region.
+:us: - Generation Tech Unimed-BH is a program conceived by Digital Innovation One in collaboration with Unimed-BH, which offers [free courses](https://web.dio.me/track/geracao-tech-unimed-bh-fullstack). In this first edition, the bootcamp will train new fullstack developers in Javascript, MySQL, Angular and .NET technologies.
+During the bootcamp, we will develop practical projects, participate in live and exclusive mentorships, and obtain our certificates for the various subjects covered. At the end of the program, Unimed-BH expects to hire the best profiles to work in the Belo Horizonte region.
 <br>
 
 ----
@@ -139,8 +139,8 @@ na região de Belo Horizonte.
  <details>
   <summary><strong>Stage 2 - Web Fundamentals with HTML and CSS</strong></summary><br />
 
-  - [ ] First Steps for Web Development
-  - [ ] Introduction to websites creation with HTML5 and CSS3
+  - [x] First Steps for Web Development
+  - [x] Introduction to websites creation with HTML5 and CSS3
   - [ ] Positioning elements with Flexbox and CSS
   - [ ] [<b>Challenge</b> : Recreating the Instagram homepage](repository-link-here)
 
@@ -182,8 +182,8 @@ na região de Belo Horizonte.
   <details>
   <summary><strong>Stage 5 - Relational Database (SQL)</strong></summary><br />
 
-  - [ ] MySQL - Working your first tables
-  - [ ] MySQL - Exploring relationships with MySQL Workbench
+  - [x] MySQL - Working your first tables
+  - [x] MySQL - Exploring relationships with MySQL Workbench
   - [ ] MySQL - Queries with Join function
  
     <br />
