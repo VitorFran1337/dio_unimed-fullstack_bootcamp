@@ -35,8 +35,8 @@ na região de Belo Horizonte.
 
   - [x] Primeiros Passos para Desenvolvimento Web
   - [x] Introdução a criação de websites com HTML5 e CSS3
-  - [ ] Posicionando elementos com Flexbox e CSS
-  - [ ] [<b>Desafio</b> : Recriando a página inicial do Instagram](link-do-repositorio-aqui)
+  - [x] Posicionando elementos com Flexbox e CSS
+  - [x] [<b>Desafio</b> : Recriando a página inicial do Instagram](https://github.com/VitorFran1337/instagram-homepage)
 
     <br />
  </details>
@@ -141,8 +141,8 @@ During the bootcamp, we will develop practical projects, participate in live and
 
   - [x] First Steps for Web Development
   - [x] Introduction to websites creation with HTML5 and CSS3
-  - [ ] Positioning elements with Flexbox and CSS
-  - [ ] [<b>Challenge</b> : Recreating the Instagram homepage](repository-link-here)
+  - [x] Positioning elements with Flexbox and CSS
+  - [x] [<b>Challenge</b> : Recreating the Instagram homepage](https://github.com/VitorFran1337/instagram-homepage)
 
     <br />
  </details>
