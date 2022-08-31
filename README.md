@@ -43,14 +43,14 @@ na região de Belo Horizonte.
  <details>
   <summary><strong>Módulo 3 - Conhecendo a Linguagem de Programação Javascript</strong></summary><br />
 
-  - [ ] Introdução ao Javascript
-  - [ ] Sintaxe e Operadores
-  - [ ] Sintaxe básica em Javascript
-  - [ ] Variáveis e Tipos
-  - [ ] Trabalhando com Módulos em Javascript
-  - [ ] Funções
-  - [ ] Introdução ao Typescript: Explorando Classes, Tipos e Interfaces
-  - [ ] [<b>Desafio de Código</b> : Desafios Iniciais - Javascript](link-do-repositorio-aqui)
+  - [x] Introdução ao Javascript
+  - [x] Sintaxe e Operadores
+  - [x] Sintaxe básica em Javascript
+  - [x] Variáveis e Tipos
+  - [x] Trabalhando com Módulos em Javascript
+  - [x] Funções
+  - [x] Introdução ao Typescript: Explorando Classes, Tipos e Interfaces
+  - [x] [<b>Desafio de Código</b> : Desafios Iniciais - Javascript](link-do-repositorio-aqui)
   - [ ] [<b>Desafio de Projeto</b> : Introdução Prática ao Typescript](link-do-repositorio-aqui)
   
     <br />
@@ -58,7 +58,7 @@ na região de Belo Horizonte.
   <details>
   <summary><strong>Módulo 4 - Desesnvolvimento Web com Angular</strong></summary><br />
  
-  - [ ] Introdução ao Angular 8
+  - [x] Introdução ao Angular 8
   - [ ] Trabalhando com Single Page Applications com Angular 
   - [ ] A arquitetura de componentes e a gestão de complexidade no front-end
   - [ ] Instalando e Preparando o Ambiente com Angular
@@ -78,7 +78,7 @@ na região de Belo Horizonte.
 
   - [x] MySQL - Trabalhando as suas primeiras tabelas
   - [x] MySQL - Explorando relacionamentos com o Workbench
-  - [ ] MySQL - Consultas com função Join
+  - [x] MySQL - Consultas com função Join
  
     <br />
   </details>
