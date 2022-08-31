@@ -149,14 +149,14 @@ During the bootcamp, we will develop practical projects, participate in live and
  <details>
   <summary><strong>Stage 3 - First Contact the Javascript Programming Language</strong></summary><br />
 
-  - [ ] Introduction to Javascript
-  - [ ] Syntax and Operators
-  - [ ] Basic syntax in Javascript
-  - [ ] Variables and Types
-  - [ ] Working with Javascript Modules
-  - [ ] Functions
-  - [ ] Introduction to Typescript: Exploring Classes, Types and Interfaces
-  - [ ] [<b>Code Challenge</b> : Initial Challenges - Javascript](repository-link-here)
+  - [x] Introduction to Javascript
+  - [x] Syntax and Operators
+  - [x] Basic syntax in Javascript
+  - [x] Variables and Types
+  - [x] Working with Javascript Modules
+  - [x] Functions
+  - [x] Introduction to Typescript: Exploring Classes, Types and Interfaces
+  - [x] [<b>Code Challenge</b> : Initial Challenges - Javascript](repository-link-here)
   - [ ] [<b>Design Challenge</b> : Hands-on Introduction to Typescript](repository-link-here)
   
     <br />
@@ -164,7 +164,7 @@ During the bootcamp, we will develop practical projects, participate in live and
   <details>
   <summary><strong>Stage 4 - Web Development with Angular</strong></summary><br />
  
-  - [ ] Introduction to Angular 8
+  - [x] Introduction to Angular 8
   - [ ] Working with Single Page Applications with Angular
   - [ ] Component architecture and front-end complexity management
   - [ ] Preparing the Environment with Angular
