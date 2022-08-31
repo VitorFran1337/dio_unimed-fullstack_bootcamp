@@ -50,7 +50,7 @@ na região de Belo Horizonte.
   - [x] Trabalhando com Módulos em Javascript
   - [x] Funções
   - [x] Introdução ao Typescript: Explorando Classes, Tipos e Interfaces
-  - [x] [<b>Desafio de Código</b> : Desafios Iniciais - Javascript](link-do-repositorio-aqui)
+  - [x] <b>Desafio de Código</b> : Desafios Iniciais - Javascript
   - [ ] [<b>Desafio de Projeto</b> : Introdução Prática ao Typescript](link-do-repositorio-aqui)
   
     <br />
@@ -174,7 +174,7 @@ During the bootcamp, we will develop practical projects, participate in live and
   - [ ] The power of Data Binding in Angular
   - [ ] Working with Components in Angular
   - [ ] Creating Pipes with Angular
-  - [ ] [<b>Code Challenge</b> : Intermediate Challenges - Javascript](repository-link-here)
+  - [ ] <b>Code Challenge</b> : Intermediate Challenges - Javascript
   - [ ] [<b>Project Challenge</b> : How to create an e-commerce front-end using Angular](repository-link-here)
 
     <br />
